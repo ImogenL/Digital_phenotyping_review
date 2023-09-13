@@ -1,4 +1,4 @@
-# Digital_phenotyping_review
+# Digital phenotyping review: included studies
 Bai, R., Xiao, L., Guo, Y., Zhu, X., Li, N., Wang, Y., . . . Wang, G. (2021). Tracking and monitoring mood stability of patients with major depressive disorder by machine learning models using passive digital data: Prospective naturalistic multicenter study. JMIR mHealth and uHealth, 9(3). doi:10.2196/24365 \
 Braund, T. A., Zin, M. T., Boonstra, T. W., Wong, Q. J., Larsen, M. E., Christensen, H., . . . O'Dea, B. (2022). Smartphone Sensor Data for Identifying and Monitoring Symptoms of Mood Disorders: A Longitudinal Observational Study. JMIR Mental Health, 9(5). doi:10.2196/35549 \
 Cao, J., Truong, A. L., Banu, S., Shah, A. A., Sabharwal, A., & Moukaddam, N. (2020). Tracking and predicting depressive symptoms of adolescents using smartphone-based self-reports, parental evaluations, and passive phone sensor data: Development and usability study. JMIR Mental Health, 7(1). doi:10.2196/14045 \
@@ -13,3 +13,9 @@ Sverdlov, O., Curcic, J., Hannesdottir, K., Gou, L., Luca, V. D., Ambrosetti, F.
 Tønning, M. L., Faurholt-Jepsen, M., Frost, M., Bardram, J. E., & Kessing, L. V. (2021). Mood and Activity Measured Using Smartphones in Unipolar Depressive Disorder. Frontiers in Psychiatry, 12. doi:10.3389/fpsyt.2021.701360 \
 Zhang, Y., Folarin, A. A., Sun, S., Cummins, N., Ranjan, Y., Rashid, Z., . . . Dobson, R. J. (2021). Predicting depressive symptom severity through individuals' nearby bluetooth device count data collected by mobile phones: Preliminary longitudinal study. JMIR mHealth and uHealth, 9(7). doi:10.2196/29840 \
 Zhang, Y., Folarin, A. A., Sun, S., Cummins, N., Vairavan, S., Bendayan, R., . . . Dobson, R. J. (2022). Longitudinal Relationships Between Depressive Symptom Severity and Phone-Measured Mobility: Dynamic Structural Equation Modeling Study. JMIR Mental Health, 9(3). doi:10.2196/34898 \
+
+# Logos 
+https://en.wikipedia.org/wiki/Instagram \
+https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles \
+https://en.wikipedia.org/wiki/Facebook \
+https://en.wikipedia.org/wiki/WhatsApp \
