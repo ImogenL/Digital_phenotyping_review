@@ -18,4 +18,4 @@ Zhang, Y., Folarin, A. A., Sun, S., Cummins, N., Vairavan, S., Bendayan, R., . .
 https://en.wikipedia.org/wiki/Instagram \
 https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles \
 https://en.wikipedia.org/wiki/Facebook \
-https://en.wikipedia.org/wiki/WhatsApp \
+https://en.wikipedia.org/wiki/WhatsApp 
