@@ -14,6 +14,9 @@ Tønning, M. L., Faurholt-Jepsen, M., Frost, M., Bardram, J. E., & Kessing, L. V
 Zhang, Y., Folarin, A. A., Sun, S., Cummins, N., Ranjan, Y., Rashid, Z., . . . Dobson, R. J. (2021). Predicting depressive symptom severity through individuals' nearby bluetooth device count data collected by mobile phones: Preliminary longitudinal study. JMIR mHealth and uHealth, 9(7). doi:10.2196/29840 \
 Zhang, Y., Folarin, A. A., Sun, S., Cummins, N., Vairavan, S., Bendayan, R., . . . Dobson, R. J. (2022). Longitudinal Relationships Between Depressive Symptom Severity and Phone-Measured Mobility: Dynamic Structural Equation Modeling Study. JMIR Mental Health, 9(3). doi:10.2196/34898 \
 
+# HMM
+Visser, I., & Speekenbrink, M. (2010). depmixS4: an R package for hidden Markov models. Journal of statistical Software, 36, 1-21. doi:https://doi.org/10.18637/jss.v036.i07 \
+
 # Logos 
 https://en.wikipedia.org/wiki/Instagram \
 https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles \
