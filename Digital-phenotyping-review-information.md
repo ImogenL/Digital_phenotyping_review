@@ -1,4 +1,9 @@
-# Digital phenotyping review: included studies
+# Digital phenotyping review: 
+
+# Link to preprint
+https://www.medrxiv.org/content/10.1101/2023.10.04.23296546v1
+
+# Included studies
 Bai, R., Xiao, L., Guo, Y., Zhu, X., Li, N., Wang, Y., . . . Wang, G. (2021). Tracking and monitoring mood stability of patients with major depressive disorder by machine learning models using passive digital data: Prospective naturalistic multicenter study. JMIR mHealth and uHealth, 9(3). doi:10.2196/24365 \
 Braund, T. A., Zin, M. T., Boonstra, T. W., Wong, Q. J., Larsen, M. E., Christensen, H., . . . O'Dea, B. (2022). Smartphone Sensor Data for Identifying and Monitoring Symptoms of Mood Disorders: A Longitudinal Observational Study. JMIR Mental Health, 9(5). doi:10.2196/35549 \
 Cao, J., Truong, A. L., Banu, S., Shah, A. A., Sabharwal, A., & Moukaddam, N. (2020). Tracking and predicting depressive symptoms of adolescents using smartphone-based self-reports, parental evaluations, and passive phone sensor data: Development and usability study. JMIR Mental Health, 7(1). doi:10.2196/14045 \
